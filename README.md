@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=El3vateMe&label=Lurking%20&color=yellow&style=plastic"  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=El3vateMe&label=Lurking%20&color=red&style=plastic"  </p>
 
 ![indir](https://github.com/user-attachments/assets/334cb63e-acb2-4be0-931d-6b8973b75796)
 
