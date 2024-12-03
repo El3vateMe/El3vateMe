@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=El3vateMe&label=Lurking%20&color=yellow&style=plastic"  </p>
+  
 ![a56d4efc](https://github.com/user-attachments/assets/760ac93c-7a1c-47b6-89ec-e81a328f6fc1)
 
 
