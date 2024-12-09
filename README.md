@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=El3vateMe&label=Lurking%20&color=red&style=plastic"  </p>
 
-![indir](https://github.com/user-attachments/assets/334cb63e-acb2-4be0-931d-6b8973b75796)
+
+![f71fbdb5bb4b4609cef1e0a32db4d3f9](https://github.com/user-attachments/assets/24e9d484-2d1f-407b-9013-cfafe3538527)
+
 
 ![cd673f11](https://github.com/user-attachments/assets/db5311a8-2ea7-48b3-b81f-f9de7e9e378c) ![fdba96c7](https://github.com/user-attachments/assets/75918977-d17d-4c64-a8a0-612e42bca1c0) ![7425fedf](https://github.com/user-attachments/assets/ae3f017a-dbc3-40cb-acf8-482ec4a47d90) ![8101d0a3](https://github.com/user-attachments/assets/e35ad42d-ba10-4455-adcb-051316209ae0) ![ecd66e8a](https://github.com/user-attachments/assets/0b458aba-0bf7-4eae-8ca8-93749217ab76) ![7efe1670](https://github.com/user-attachments/assets/a6ffb290-55dc-48b0-a965-2488cb8bc77c)
